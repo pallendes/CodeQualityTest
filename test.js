@@ -1,5 +1,11 @@
 'use strict';
 
+//Deleted some funcions.
+//Changed the users ana password arrays for an Array of objects, for simplicity.
+//Deleted de idx function, insted, I used the es6 findIndex method.
+//added console logs
+//etc, etc
+
 // This class is used for logins
 class Login {
 
